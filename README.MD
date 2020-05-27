@@ -10,5 +10,3 @@ which means:
 2 2x2 structures (u1,u2)->(y1,y2) , (u1,u2)->(y2,y1)
 Combinations are also printed in command window
 
-Ncomb = 
-Ν=∑_(k=1)^(min⁡(n_u,n_y))▒(■(n_u@k))  (■(n_y@k))k!
